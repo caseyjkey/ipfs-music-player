@@ -6,7 +6,6 @@ Join the decentralized web with this music player template!
 ### Edit the source
 * `/src/App.jsx` 
     * Contains the location to your song, album art, title, and artist.
-The
 * `/public/index.html`
     * Contains the title, description, and favicon for your website.
 
