@@ -5,10 +5,10 @@ Join the decentralized web with this music player template!
 ## Making it your own
 ### Edit the source
 * `/src/App.jsx` 
-** Contains the location to your song, album art, title, and artist.
+    * Contains the location to your song, album art, title, and artist.
 The
 * `/public/index.html`
-** Contains the title, description, and favicon for your website.
+    * Contains the title, description, and favicon for your website.
 
 ### Test your website
 
