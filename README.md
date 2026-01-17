@@ -1,43 +1,39 @@
-## IPFS Music Player Template
+# ⚠️ Archived
 
-Join the decentralized web with this music player template!
+This repository has been consolidated into **[Decentralized-Application-Development](https://github.com/caseyjkey/Decentralized-Application-Development)** for better organization and maintenance.
 
-## Making it your own
-### Edit the source
-* `/src/App.jsx` 
-    * Contains the location to your song, album art, title, and artist.
-* `/public/index.html`
-    * Contains the title, description, and favicon for your website.
+**👉 Continue here: [Decentralized-Application-Development](https://github.com/caseyjkey/Decentralized-Application-Development)**
 
-### Test your website
+---
 
-#### `npm run start`
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## What moved?
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+This repository (IPFS Music Player) is now the **featured project** within the **Decentralized-Application-Development** monorepo alongside:
+- Crypto arbitrage algorithms (Kraken Arbitrage Challenge)
+- Payment experimentation projects (The Payment Pals)
 
-### Deploy your website
+All source code, documentation, and future updates have moved to the monorepo.
 
-#### 1. `npm run build`
+## Why?
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Consolidating Web3 and blockchain experiments into a focused monorepo for:
+- **Easier maintenance** — shared tooling and dependencies
+- **Better discoverability** — all decentralized apps in one place
+- **Streamlined updates** — single source of truth
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+---
 
-#### 2. `pinata.cloud`
+## Original Project
 
-Deploy it at `pinata.cloud` using folder upload! More instructions are found [here](https://medium.com/pinata/how-to-easily-host-a-website-on-ipfs-9d842b5d6a01).
+### ETHDenver Hackathon Project
 
+Join the decentralized web with this music player template! Built with React and designed for IPFS deployment.
 
-## Want more features?
+**Previous features:**
+- `/src/App.jsx` — Song, album art, title, and artist configuration
+- `/public/index.html` — Website title, description, and favicon
+- Deploy to IPFS via `pinata.cloud`
 
-Connect with me and my team at [my website](https://caseyjkey.com/).
+---
 
-## Learn more
-
-This template is built with React and a handful of npm modules. To learn React, check out the [React documentation](https://reactjs.org/).
-
+*This repo is kept public and archived for historical purposes. Please use the new monorepo for all updates.*
